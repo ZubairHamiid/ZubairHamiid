@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Zubair.
-I'm currently in my 4th semester of Software Engineering at UOL , specializing in Data Science .
+I'm currently in my 5th semester of Software Engineering at UOL , specializing in Data Science .
 
 
 # 💫 About Me:
