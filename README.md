@@ -3,7 +3,7 @@ I'm currently in my 5th semester of Software Engineering at UOL , specializing i
 
 
 # 💫 About Me:
-🌱 I’m currently learning Python, jupyter, NoteBook Machine learning, Deep learning<br>👯 I’m looking to collaborate on Web Development Projects<br>💬 Ask me about anything related to MERN Stack<br>📫 Reach me at: zubairhamiid@gmail.com
+🌱 I’m currently learning Python, jupyter, NoteBook, Machine learning, Deep learning<br>👯 I’m looking to collaborate on Data Science and AI & Machine learning, Deep learning Projects<br>💬 Ask me about anything related to Data Science and AI & Machine learning, Deep learning<br>📫 Reach me at: zubairhamiid@gmail.com
 
 
 ## 🌐 Socials:
