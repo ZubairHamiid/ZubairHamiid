@@ -3,7 +3,7 @@ I'm currently in my 5th semester of Software Engineering at UOL , specializing i
 
 
 # 💫 About Me:
-🌱AI/ML Engineer & Data Scientist specializing in Machine Learning, Deep Learning, NLP, Generative AI, Computer Vision, and Large      Language Models (LLMs).<br>👯 I’m looking to collaborate on Data Science and AI & Machine learning, Deep learning Projects<br>💬 Ask me about anything related to Data Science and AI & Machine learning, Deep learning<br>📫 Reach me at: zubair.hamiid@gmail.com<br>🌐 Visit My Portfolio: https://zubair-hamid-portfolio.vercel.app/
+🌱AI/ML Engineer & Data Scientist specializing in Machine Learning, Deep Learning, NLP, Generative AI, Computer Vision, and Large Language Models (LLMs).<br>👯 I’m looking to collaborate on Data Science and AI & Machine learning, Deep learning Projects<br>💬 Ask me about anything related to Data Science and AI & Machine learning, Deep learning<br>📫 Reach me at: zubair.hamiid@gmail.com<br>🌐 Visit My Portfolio: https://zubair-hamid-portfolio.vercel.app/
 
 
 ## 🌐 Socials:
